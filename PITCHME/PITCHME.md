@@ -54,7 +54,7 @@ AirPAY、POICHI for AirREGI
 POICHI for AirREGI について
 @snapend
 
-@snap[north-east]
+@snap[south-east]
 ![Logo](assets/img/poichi_for_airregi.png)
 @snapend
 
