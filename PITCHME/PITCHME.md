@@ -52,12 +52,14 @@ AirPAY、POICHI for AirREGI
 POICHI for AirREGIについて
 @snapend
 
-@snap[west body-message]
+@snap[north-west body-message]
 <ul>
   <li>案件概要</li>
 </ul>
 
 店舗が導入し、PontaポイントやTポイントなどの付与・利用ができるようになる販促支援アプリ
+
+
 
 <ul>
   <li>案件規模</li>
