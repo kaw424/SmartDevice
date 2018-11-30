@@ -1,16 +1,14 @@
 ### NRI x TIS交流会発表資料
 
 
-RTC 発表
-
-河井大介
+RTC 発表 - 河井大介 -
 
 
 ---
 
-@snap[north-west]
-アジェンダ
-@snapend
+### アジェンダ
+
++++
 
 @snap[west body-message]
 <ul>
@@ -29,11 +27,12 @@ RTC 発表
 プロジェクト紹介
 @snapend
 
+Airシリーズ
+
 @snap[center]
 ![Logo](assets/img/air_series.png)
 @snapend
 
-Airシリーズ
 
 +++
 
