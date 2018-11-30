@@ -14,6 +14,9 @@
 @snap[west body-message]
 <ul>
   <li>プロジェクト紹介</li>
+</ul>
+
+<ul>
   <li>課題感の共有</li>
 </ul>
 @snape
@@ -49,7 +52,7 @@ AirPAY、POICHI for AirREGI
 +++
 
 @snap[north-west]
-POICHI for AirREGIについて
+POICHI for AirREGI について
 @snapend
 
 @snap[north-west body-message]
@@ -65,22 +68,22 @@ POICHI for AirREGIについて
   <li>案件規模</li>
 </ul>
 
-保守・エンハンス開発 6人月/月
+保守・エンハンス開発 6人月／月
 
 @snape
 
 +++
 
 @snap[north-west]
-- POICHI for Airレジ - 
+POICHI for AirREGI について
 @snapend
 
-@snap[west body-message]
+@snap[north-west body-message]
 <ul>
   <li>体制</li>
-  <li>案件規模</li>
-  <li>案件概要</li>
 </ul>
+
+
 @snape
 
 
