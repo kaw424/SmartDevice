@@ -1,6 +1,5 @@
 ### NRI x TIS交流会発表資料
-
-- RTC 発表 -
+　- RTC 発表 -
 
 河井大介
 
@@ -53,6 +52,10 @@ AirPAY、POICHI for AirREGI
 
 @snap[north-west]
 POICHI for AirREGI について
+@snapend
+
+@snap[north-east]
+![Logo](assets/img/poichi_for_airregi.png)
 @snapend
 
 @snap[north-west body-message]
