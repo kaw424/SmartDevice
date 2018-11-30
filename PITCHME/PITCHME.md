@@ -1,7 +1,8 @@
 ### NRI x TIS交流会発表資料
 
 
-RTC 発表 - 河井大介 -
+- RTC 発表 -
+河井大介
 
 
 ---
@@ -39,13 +40,11 @@ Airレジを中心としたAirシリーズ
 プロジェクト紹介 - 担当プロジェクト - 
 @snapend
 
+AirPAY、POICHI for Airレジ
+
 @snap[center]
 ![Logo](assets/img/air_series_marked.png)
 @snapend
-<ul>
-  <li>AirPAY</li>
-  <li>POICHI for Airレジ</li>
-</ul>
 
 +++
 
