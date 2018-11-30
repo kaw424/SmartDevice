@@ -24,29 +24,28 @@ RTC 発表 - 河井大介 -
 +++
 
 @snap[north-west]
-プロジェクト紹介
+プロジェクト紹介 - 関連プロジェクト - 
 @snapend
 
-Airシリーズ
+Airレジを中心としたAirシリーズ
 
 @snap[center]
 ![Logo](assets/img/air_series.png)
 @snapend
 
-
 +++
 
 @snap[north-west]
-プロジェクト紹介 - 関連プロジェクト - 
+プロジェクト紹介 - 担当プロジェクト - 
 @snapend
 
-@snap[west body-message]
+@snap[center]
+![Logo](assets/img/air_series_marked.png)
+@snapend
 <ul>
-  <li>Airレジ</li>
   <li>AirPAY</li>
   <li>POICHI for Airレジ</li>
 </ul>
-@snape
 
 +++
 
