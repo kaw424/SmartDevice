@@ -19,5 +19,5 @@
 
 .north-west.body-message {
   margin-top: 80px !important;
-  border-bottom: none;
+  border-bottom: none !important;
 }
