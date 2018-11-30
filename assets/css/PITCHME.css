@@ -12,10 +12,10 @@
   height: 90%;
 }
 
-.north-west {
-  border-bottom: solid !important;
+.north-west.body-message {
+  margin-top: 80px !important;
 }
 
-.north-west.body-message {
-  margin-top: 80px;
+.north-west {
+  border-bottom: solid !important;
 }
