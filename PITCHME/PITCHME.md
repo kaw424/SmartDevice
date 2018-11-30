@@ -71,7 +71,8 @@ POICHI for AirREGI について
   <li>案件規模</li>
 </ul>
 
-保守・エンハンス開発 6人月／月
+保守・エンハンス開発 8.5人月／月
+※アプリ・サーバー開発の合算
 
 @snape
 
@@ -85,6 +86,10 @@ POICHI for AirREGI について
 <ul>
   <li>体制</li>
 </ul>
+
+@snap[center]
+![Logo](assets/img/project_member.png)
+@snapend
 
 
 @snape
