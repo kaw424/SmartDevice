@@ -19,6 +19,10 @@
   height: 45%;
 }
 
+.center img {
+  width: 60%;
+  height: 60%;
+}
 
 .north-west {
   border-bottom: solid !important;
