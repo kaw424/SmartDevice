@@ -1,1 +1,14 @@
 
+.reveal section img {
+  margin: 0;
+  border: 1px solid #1e90ff;
+}
+
+.reveal img, .reveal video, .reveal iframe {
+  width: 90%;
+  height: 90%;
+}
+
+.north-west {
+  border-bottom: solid !important;
+}
