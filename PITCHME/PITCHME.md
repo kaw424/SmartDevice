@@ -1,7 +1,8 @@
 ### NRI x TIS交流会発表資料
 
 
-- RTC 発表 -
+　- RTC 発表 -
+
 河井大介
 
 
@@ -25,7 +26,7 @@
 +++
 
 @snap[north-west]
-プロジェクト紹介 - 関連プロジェクト - 
+- 関連プロジェクト - 
 @snapend
 
 Airレジを中心としたAirシリーズ
@@ -37,7 +38,7 @@ Airレジを中心としたAirシリーズ
 +++
 
 @snap[north-west]
-プロジェクト紹介 - 担当プロジェクト - 
+- 担当プロジェクト - 
 @snapend
 
 AirPAY、POICHI for Airレジ
@@ -49,7 +50,24 @@ AirPAY、POICHI for Airレジ
 +++
 
 @snap[north-west]
-プロジェクト紹介 - POICHI for Airレジ - 
+- POICHI for Airレジ - 
+@snapend
+
+@snap[west body-message]
+<ul>
+  <li>案件概要</li>
+</ul>
+店舗が導入し、PontaポイントやTポイントなどの付与・利用ができるようになる販促支援アプリ
+<ul>
+  <li>案件規模</li>
+</ul>
+保守・エンハンス開発 6人月/月
+@snape
+
++++
+
+@snap[north-west]
+- POICHI for Airレジ - 
 @snapend
 
 @snap[west body-message]
