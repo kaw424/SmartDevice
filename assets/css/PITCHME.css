@@ -14,14 +14,9 @@
   height: 90%;
 }
 
-.south-east img {
+.south-east > img {
   width: 45%;
   height: 45%;
-}
-
-.center img {
-  width: 60%;
-  height: 60%;
 }
 
 .north-west {
