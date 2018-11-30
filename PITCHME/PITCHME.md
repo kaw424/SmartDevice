@@ -29,6 +29,10 @@ RTC 発表
 プロジェクト紹介
 @snapend
 
+@snap[center]
+![Logo](assets/img/air_series.png)
+@snapend
+
 Airシリーズ
 
 +++
