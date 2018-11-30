@@ -16,6 +16,6 @@
   border-bottom: solid !important;
 }
 
-.north-west, .body-message {
+.north-west.body-message {
   margin-top: 80px;
 }
