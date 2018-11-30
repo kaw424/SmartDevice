@@ -1,6 +1,6 @@
 <!-- ---?color=#222222 -->
 
-### NRIxTIS交流会発表資料
+### NRI x TIS交流会発表資料
 
 
 RTC 発表
@@ -23,7 +23,7 @@ RTC 発表
 
 ### プロジェクト紹介
 
----
++++
 
 @snap[north-west]
 プロジェクト紹介
@@ -69,6 +69,7 @@ Airシリーズ
 @snap[north-west]
 POICHI for Airレジ の課題
 @snapend
+
 @snap[west body-message]
 <ul>
   <li>重点課題と言われつつも、Rプロパー０ & 体制縮小</li>
