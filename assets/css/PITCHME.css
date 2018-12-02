@@ -27,3 +27,12 @@
   margin-top: 80px !important;
   border-bottom: none !important;
 }
+
+.north-east.sub-message {
+  margin-top: 145px;
+  font-size: xx-large;
+}
+
+.remark {
+  font-size: x-large;
+}
