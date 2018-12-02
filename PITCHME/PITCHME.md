@@ -112,6 +112,7 @@ POICHI for AirREGI の課題
 <ul>
   <li>最低限の体制で現状と同等の</br>サービス品質を保つ必要がある</li>
 </ul>
+
 @snapend
 
 +++
