@@ -52,7 +52,7 @@ POICHI for AirREGI について
 ![Logo](assets/img/poichi_for_airregi.png)
 @snapend
 
-@snap[north-west]
+@snap[north-west body-message]
 <ul>
   <li>案件概要</li>
 </ul>
@@ -78,9 +78,7 @@ POICHI for AirREGI について
 @snapend
 
 @snap[north-west]
-<ul>
-  <li>体制</li>
-</ul>
+- 体制
 
 @snap[center]
 ![Logo](assets/img/project_member.png)
