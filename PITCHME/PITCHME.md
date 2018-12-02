@@ -73,7 +73,7 @@ POICHI for AirREGI について
 
 保守・エンハンス開発 8.5人月／月
 
-※アプリ・サーバー開発の合算
+<span class="remark">※アプリ・サーバー開発の合算</span>
 
 @snape
 
@@ -92,10 +92,10 @@ POICHI for AirREGI について
 ![Logo](assets/img/project_member.png)
 @snapend
 
-@snap[east key-message]
+@snap[north-east sub-message]
 <ul>
-  <li>「重点注力領域」といわれつつもRプロパー０</li>
-  <li>Air PAYも同様の体制図</br>※規模はAir PAYの方が大きい</li>
+  <li>「重点注力領域」といわれつつも</br>Rプロパーが１人もいない</li>
+  <li>Air PAYも同様の体制図</br><span class="remark">※規模はAir PAYの方が大きい</span></li>
 </ul>
 @snapend
 
