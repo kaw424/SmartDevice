@@ -78,7 +78,9 @@ POICHI for AirREGI について
 @snapend
 
 @snap[north-west body-message]
-- 体制
+<ul>
+  <li>体制</li>
+</ul>
 
 @snap[center]
 ![Logo](assets/img/project_member.png)
