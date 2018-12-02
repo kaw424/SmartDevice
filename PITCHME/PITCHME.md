@@ -77,7 +77,7 @@ POICHI for AirREGI について
 POICHI for AirREGI について
 @snapend
 
-@snap[north-west]
+@snap[north-west body-message]
 - 体制
 
 @snap[center]
@@ -104,9 +104,8 @@ POICHI for AirREGI について
 POICHI for AirREGI の課題
 @snapend
 
-- 開発案件の減少に伴い、体制が縮小傾向にある
-- 縮小する案件規模の中で体制ーをキープするのが大変
-
+- 開発案件の減少に伴い、</br>体制が縮小傾向にある
+- 最低限の体制で現状と同等のサービス品質を保つ必要がある
 +++
 
 @snap[north-west]
@@ -114,16 +113,8 @@ POICHI for AirREGI の課題施策
 @snapend
 
 @snap[west]
-<ul>
-  <li>Air PAYとの体制統合</li>
-  <li>縮小する案件規模の中で体制ーをキープするのが大変</li>
-    <ul>
-      <li></li>
-      <li>開発文化が違うなどの壁もある</li>
-      <li>NRIさんはどうしてます？</li>
-    </ul>
-</ul>
-@snapend
+- Air PAYとの体制統合
+  - 開発文化が違うなどの壁もある
 
 ---
 
