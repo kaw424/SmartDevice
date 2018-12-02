@@ -112,13 +112,20 @@ POICHI for AirREGI の課題
 POICHI for AirREGI の課題施策
 @snapend
 
-@snap[west]
-- Air PAYとの体制統合
-  - お互いのプロジェクトでリソースを共有
+@snap[west body-message]
+<ul>
+  <li>Air PAYとの体制統合</li>
+</ul>
 
-- 懸念
-  - 新しい業務知識
-  - 開発文化やプロセスの違い
+お互いのプロジェクトでリソースを共有
+
+<ul>
+  <li>懸念</li>
+</ul>
+
+新しい業務知識
+
+開発文化やプロセスの違い
 
 ---
 
