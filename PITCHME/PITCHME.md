@@ -87,7 +87,7 @@ POICHI for AirREGI について
 @snap[north-east sub-message]
 <ul>
    <li>「重点注力領域」といわれつつも</br>Rプロパーが１人もいない</li>
-  <li>Air PAYも同様の体制図</br><span class="remark">※規模はAir PAYの方が大きい</span></li>
+  <li>Air PAYも同様の体制</br><span class="remark">※規模はAir PAYの方が大きい</span></li>
 </ul>
 @snapend
 
