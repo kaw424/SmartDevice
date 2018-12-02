@@ -92,7 +92,7 @@ POICHI for AirREGI について
 ![Logo](assets/img/project_member.png)
 @snapend
 
-@snap[north-west key-message]
+@snap[east key-message]
 <ul>
   <li>「重点注力領域」といわれつつもRプロパー０</li>
   <li>Air PAYも同様の体制図</br>※規模はAir PAYの方が大きい</li>
