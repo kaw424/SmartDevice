@@ -96,6 +96,7 @@ POICHI for AirREGI について
 <ul>
   <li>「重点注力領域」といわれつつも</br>Rプロパーが１人もいない</li>
 </ul>
+
 <ul>
   <li>Air PAYも同様の体制図</br><span class="remark">※規模はAir PAYの方が大きい</span></li>
 </ul>
@@ -114,10 +115,8 @@ POICHI for AirREGI について
 POICHI for AirREGI の課題
 @snapend
 
-@snap[west]
  - 開発案件の減少に伴い、体制が縮小傾向にある
  - 縮小する案件規模の中で体制ーをキープするのが大変
-@snapend
 
 +++
 
