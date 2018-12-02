@@ -10,15 +10,9 @@
 
 +++
 
-@snap[west]
-<ul>
-  <li>プロジェクト紹介</li>
-</ul>
+- プロジェクト紹介
 
-<ul>
-  <li>課題感の共有</li>
-</ul>
-@snape
+- 課題感の共有
 
 ---
 
@@ -94,10 +88,7 @@ POICHI for AirREGI について
 
 @snap[north-east sub-message]
 <ul>
-  <li>「重点注力領域」といわれつつも</br>Rプロパーが１人もいない</li>
-</ul>
-
-<ul>
+   <li>「重点注力領域」といわれつつも</br>Rプロパーが１人もいない</li>
   <li>Air PAYも同様の体制図</br><span class="remark">※規模はAir PAYの方が大きい</span></li>
 </ul>
 @snapend
@@ -115,8 +106,8 @@ POICHI for AirREGI について
 POICHI for AirREGI の課題
 @snapend
 
- - 開発案件の減少に伴い、体制が縮小傾向にある
- - 縮小する案件規模の中で体制ーをキープするのが大変
+- 開発案件の減少に伴い、体制が縮小傾向にある
+- 縮小する案件規模の中で体制ーをキープするのが大変
 
 +++
 
