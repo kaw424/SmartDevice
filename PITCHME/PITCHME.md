@@ -104,16 +104,9 @@ POICHI for AirREGI について
 POICHI for AirREGI の課題
 @snapend
 
-@snap[north-west body-message]
-<ul>
-   <li>開発案件の減少に伴い、</br>体制が縮小傾向にある</li>
-</ul>
+- 開発案件の減少に伴い、</br>体制が縮小傾向にある</br>
 
-<ul>
-  <li>最低限の体制で現状と同等の</br>サービス品質を保つ必要がある</li>
-</ul>
-
-@snapend
+- 最低限の体制で現状と同等の</br>サービス品質を保つ必要がある
 
 +++
 
