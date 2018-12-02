@@ -10,7 +10,7 @@
 
 +++
 
-@snap[west body-message]
+@snap[west]
 <ul>
   <li>プロジェクト紹介</li>
 </ul>
@@ -58,7 +58,7 @@ POICHI for AirREGI について
 ![Logo](assets/img/poichi_for_airregi.png)
 @snapend
 
-@snap[north-west body-message]
+@snap[north-west]
 <ul>
   <li>案件概要</li>
 </ul>
@@ -71,7 +71,7 @@ POICHI for AirREGI について
   <li>案件規模</li>
 </ul>
 
-保守・エンハンス開発 8.5人月／月
+保守・エンハンス開発 7.5人月／月
 
 <span class="remark">※アプリ・サーバー開発の合算</span>
 
@@ -83,7 +83,7 @@ POICHI for AirREGI について
 POICHI for AirREGI について
 @snapend
 
-@snap[north-west body-message]
+@snap[north-west]
 <ul>
   <li>体制</li>
 </ul>
@@ -95,6 +95,8 @@ POICHI for AirREGI について
 @snap[north-east sub-message]
 <ul>
   <li>「重点注力領域」といわれつつも</br>Rプロパーが１人もいない</li>
+</ul>
+<ul>
   <li>Air PAYも同様の体制図</br><span class="remark">※規模はAir PAYの方が大きい</span></li>
 </ul>
 @snapend
@@ -112,12 +114,23 @@ POICHI for AirREGI について
 POICHI for AirREGI の課題
 @snapend
 
-@snap[west body-message]
+@snap[west]
+ - 開発案件の減少に伴い、体制が縮小傾向にある
+ - 縮小する案件規模の中で体制ーをキープするのが大変
+@snapend
+
++++
+
+@snap[north-west]
+POICHI for AirREGI の課題施策
+@snapend
+
+@snap[west]
 <ul>
-  <li>重点課題と言われつつも、Rプロパー０ & 体制縮小</li>
+  <li>Air PAYとの体制統合</li>
   <li>縮小する案件規模の中で体制ーをキープするのが大変</li>
     <ul>
-      <li>Air PAYとの体制統合してリソース共有</li>
+      <li></li>
       <li>開発文化が違うなどの壁もある</li>
       <li>NRIさんはどうしてます？</li>
     </ul>
